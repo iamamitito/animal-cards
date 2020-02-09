@@ -1,0 +1,59 @@
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: rgba(1, 55, 80, 0.623);
+}
+h1 {
+    font-size: 5rem;
+    text-transform: uppercase;
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: rgb(252, 231, 44);
+}
+.animal {
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    height: 23rem;
+    border-radius: 5px;
+}
+.animal:hover {
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  }
+.animal h2 {
+    font-size: inherit;
+}
+.animal img {
+    height: 15rem;
+    width: inherit;
+}
+.dog {
+    background-color: rgb(203, 167, 238);
+}
+.cat {
+    background-color: rgb(148, 231, 155);
+}
+.snake {
+    background-color: rgb(218, 175, 120);
+}
+.panda {
+    background-color: rgb(120, 218, 153);
+}
+.goat {
+    background-color: rgb(255, 118, 137);
+}
+.owl {
+    background-color: rgb(252, 243, 120);
+}
+.lion {
+    background-color: rgb(253, 155, 224);
+}
+.rabbit {
+    background-color: rgb(135, 210, 245);
+}
+.container {
+    margin-top: 40px;
+}
